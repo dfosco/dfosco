@@ -6,7 +6,7 @@ I draw the rectangles and then write some of the code that **makes** the rectang
 
 Currently working at `@github`, building this page and a couple of others. 
 
-If something breaks, please remain calm.
+If something looks broken, please be kind. We're doing our best here.
 
 ⌘ ⌘ ⌘ 
 
