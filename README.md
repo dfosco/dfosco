@@ -1,5 +1,20 @@
-## Hello there 👋
+Hello there
 
-My name is Daniel Fosco, and I'm a software designer. I create systems for people to work, build, and collaborate online.
+My name is Daniel. I'm a computer person and software designer.
 
-I'm currently working at `@github`, maybe building the page you're on right now. Check my portfolio at [danielfos.co](https://danielfos.co) or poke at the code below.
+I draw the rectangles and then write some of the code that **makes** the rectangles.
+
+Currently working at `@github`, building this page and a couple of others. 
+
+If something breaks, please remain calm.
+
+⌘ ⌘ ⌘ 
+
+<img src="https://github.com/user-attachments/assets/2f1e9791-fe39-423d-8a58-ffc1caeca4ed" alt="Old school gif with clipart of planet transferring data into a desktop pc, written 'Dialing progress' at the top" width="200" height="auto">
+<img src="https://github.com/user-attachments/assets/2f1e9791-fe39-423d-8a58-ffc1caeca4ed" alt=" " width="200" height="auto">
+<img src="https://github.com/user-attachments/assets/2f1e9791-fe39-423d-8a58-ffc1caeca4ed" alt=" " width="200" height="auto">
+<img src="https://github.com/user-attachments/assets/2f1e9791-fe39-423d-8a58-ffc1caeca4ed" alt=" " width="200" height="auto">
+<img src="https://github.com/user-attachments/assets/2f1e9791-fe39-423d-8a58-ffc1caeca4ed" alt=" " width="200" height="auto">
+<img src="https://github.com/user-attachments/assets/2f1e9791-fe39-423d-8a58-ffc1caeca4ed" alt=" " width="200" height="auto">
+<img src="https://github.com/user-attachments/assets/2f1e9791-fe39-423d-8a58-ffc1caeca4ed" alt=" " width="200" height="auto">
+<img src="https://github.com/user-attachments/assets/2f1e9791-fe39-423d-8a58-ffc1caeca4ed" alt=" " width="200" height="auto">
