@@ -1,4 +1,4 @@
-Hello there
+Hey there!
 
 My name is Daniel. I'm a computer person and software designer.
 
